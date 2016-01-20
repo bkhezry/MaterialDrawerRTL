@@ -1,4 +1,4 @@
-package ir.bkhezr.materialdrawerrtl;
+package ir.bkhezry.materialdrawerrtl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
