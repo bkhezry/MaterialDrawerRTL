@@ -13,4 +13,5 @@
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <bool name="abc_config_actionMenuItemAllCaps">false</bool>
 </resources>

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ir.bkhezry.materialdrawerrtl.MainActivity">
+    <item
+        android:id="@+id/title"
+        android:orderInCategory="100"
+        android:title="MaterialDrawer"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/drawershow"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@mipmap/ic_view_headline_white_48dp"
+        app:showAsAction="always" />
+</menu>
