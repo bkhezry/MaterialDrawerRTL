@@ -5,7 +5,7 @@
     <item
         android:id="@+id/title"
         android:orderInCategory="100"
-        android:title="MaterialDrawer"
+        android:title="MaterialDrawerRTL"
         app:showAsAction="always" />
     <item
         android:id="@+id/drawershow"
